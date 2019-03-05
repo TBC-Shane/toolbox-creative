@@ -118,7 +118,7 @@ If you would like to have a section “reveal“, we have three built in classes
 2. Duplicate the form you'd like to match. Make note of the form id you duplicate from.
 3. Change the form name and modify any settings as needed. In most cases, you'll need to update the Tags, Categories & Taxonomies tab and potentially the Posts tab to make sure you're including and excluding the appropriate post information.
 4. Using SFTP, log on to the Toolbox Server and go to: `wp-content > themes > Avada-Child-Theme > search-filter`
-5.Right click on the file that matches the form ID you duplicated from and duplicate the file.
+5. Right click on the file that matches the form ID you duplicated from and duplicate the file.
 6. Rename the file with the form ID of your new form. This will ensure that your new form's display style will match the existing style.
 7. You can embed the form in the page without a search form using the Results Shortcode. To include a Search Form, inlcude the Search Form shortcode immediately above the Results Shortcode.
 
