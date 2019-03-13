@@ -149,3 +149,17 @@ Example use case:
 <a href="/projects/?_sft_category=do-gooders">This will link to a list of all Do Gooders projects</a>
 <a href="/projects/?_sft_post_tag=logo-design">This will link to a list of all projects that have been tagged with a Logo Design tag</a>
 ```
+### Post Categories
+3D Printing Marketing
+AgTech Marketing
+B2B Marketing Resources
+Brand Engineering
+CleanTech Marketing
+Toolboxing
+Women in Tech
+
+### Page Categories
+3D Printing
+AgTech
+CleanTech
+DoGooders
