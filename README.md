@@ -50,6 +50,8 @@ $tbc-housing-catalyst-teal: #00677f;
 /*Add these classes to any text site-wide to change it's color*/
 .white
 
+.black
+
 .tbc-dark-green
 
 .tbc-light-green
